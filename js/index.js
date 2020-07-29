@@ -47,8 +47,6 @@ window.onload = function() {
 			sz = 0
 			break;
 		}
-		
-		console.log(sz)
 		music.play()
 		sz+=1
 	}
